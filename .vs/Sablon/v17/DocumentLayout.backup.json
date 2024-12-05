@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\katar\\Desktop\\grafika\\projekat\\Projekat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC504904-6D9A-4E9B-8926-2B453C6C69B4}|Sablon.vcxproj|C:\\Users\\katar\\Desktop\\grafika\\projekat\\Projekat\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC504904-6D9A-4E9B-8926-2B453C6C69B4}|Sablon.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC504904-6D9A-4E9B-8926-2B453C6C69B4}|Sablon.vcxproj|C:\\Users\\katar\\Desktop\\grafika\\projekat\\Projekat\\basic.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC504904-6D9A-4E9B-8926-2B453C6C69B4}|Sablon.vcxproj|solutionrelative:basic.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC504904-6D9A-4E9B-8926-2B453C6C69B4}|Sablon.vcxproj|C:\\Users\\katar\\Desktop\\grafika\\projekat\\Projekat\\basic.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC504904-6D9A-4E9B-8926-2B453C6C69B4}|Sablon.vcxproj|solutionrelative:basic.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\katar\\Desktop\\grafika\\projekat\\Projekat\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\katar\\Desktop\\grafika\\projekat\\Projekat\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T20:13:53.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "basic.vert",
+              "DocumentMoniker": "C:\\Users\\katar\\Desktop\\grafika\\projekat\\Projekat\\basic.vert",
+              "RelativeDocumentMoniker": "basic.vert",
+              "ToolTip": "C:\\Users\\katar\\Desktop\\grafika\\projekat\\Projekat\\basic.vert",
+              "RelativeToolTip": "basic.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-04T06:01:36.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "basic.frag",
+              "DocumentMoniker": "C:\\Users\\katar\\Desktop\\grafika\\projekat\\Projekat\\basic.frag",
+              "RelativeDocumentMoniker": "basic.frag",
+              "ToolTip": "C:\\Users\\katar\\Desktop\\grafika\\projekat\\Projekat\\basic.frag",
+              "RelativeToolTip": "basic.frag",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-04T06:01:36.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
